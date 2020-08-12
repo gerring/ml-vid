@@ -1,3 +1,18 @@
+# Images and movies
+*.jpg
+*.jpeg
+*.png
+*.avi
+
+# Models generated
+*.hdf5
+*.h5
+
+# Temp folders for extraction of video files
+/scratch/
+/temp/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
